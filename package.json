@@ -1,0 +1,25 @@
+{
+  "name": "team-creator",
+  "version": "1.0.0",
+  "description": "This is a team Generator application that produces a general html and .json file of your team",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chadalac27"
+  },
+  "keywords": [
+    "Team",
+    "Creator"
+  ],
+  "author": "Chad Coleman",
+  "license": "ISC"
+}

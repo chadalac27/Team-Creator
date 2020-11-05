@@ -1,0 +1,23 @@
+[
+    {
+        "id": "8675309",
+        "name": "Chad",
+        "email": "ihatethisjob@hate.com",
+        "role": "Manager",
+        "officeNum": "555-555-5555"
+    },
+    {
+        "id": "12345",
+        "name": "Tom",
+        "email": "tomsasavage@savage.com",
+        "role": "Engineer",
+        "gitHub": "tom4u"
+    },
+    {
+        "id": "000001",
+        "name": "kate",
+        "email": "kateisgreat@intern.com",
+        "role": "Intern",
+        "school": "ballzandWinners"
+    }
+]
