@@ -1,5 +1,7 @@
 # Team-Creator# Team Creator ![MIT License](https://img.shields.io/badge/License-MIT-Green)
 
+![teamGen Gif](https://user-images.githubusercontent.com/12057073/98305599-062b4380-1f77-11eb-962f-35d926d89b08.gif)
+
 ## Description
 
 This is a easy to use node based Team Creator that will generate a simple html as well as a .json file of your team.
